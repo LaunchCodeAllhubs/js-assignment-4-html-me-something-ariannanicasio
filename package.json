@@ -4,7 +4,8 @@
   "description": "",
   "main": "grading.js",
   "scripts": {
-    "test": "jasmine"
+    "test": "jasmine",
+    "start": "open http://localhost:8080 && node server.js"
   },
   "author": "",
   "license": "ISC",

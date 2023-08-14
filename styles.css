@@ -1,1 +1,36 @@
 /* Write your CSS here! */
+h1 {
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+ul {
+    color: rebeccapurple;
+    font-size: xx-large;
+    font-family: fantasy;
+}
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: block;
+    margin: 8px;
+}
+
+   .main-image {
+    border: solid 4px black;
+   }
+   h2 {
+    font-style: italic;
+    background-color: lightgray;
+    text-transform: uppercase;
+    padding: 5px;
+    width: 400;
+    height: 400;
+   }
+   section{
+    font-style: normal;
+   }
+.funParagraph {
+    color: green;
+}
+#mainHeading {
+    color: red;
+}
