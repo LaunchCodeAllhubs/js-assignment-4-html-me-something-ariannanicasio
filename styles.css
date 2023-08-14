@@ -10,6 +10,8 @@ ul {
 }
 body {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: block;
+    margin: 8px;
 }
 
    .main-image {
@@ -26,3 +28,9 @@ body {
    section{
     font-style: normal;
    }
+.funParagraph {
+    color: green;
+}
+#mainHeading {
+    color: red;
+}
